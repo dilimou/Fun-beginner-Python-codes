@@ -1,2 +1,2 @@
 #Readme
-first push
+fun handson python codes.
